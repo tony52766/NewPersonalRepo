@@ -1,0 +1,12 @@
+{
+    "assetName": "Personal",
+    "description": "Testing",
+    "topics": [
+        "ens-mathematics",
+        "ens-asset"
+    ],
+    "associations": [
+        "www.google.com",
+        "www.github.com"
+    ]
+}
